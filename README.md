@@ -1,5 +1,7 @@
 # Traffic-lights
+
 Traffic lights simulation program using finite state machine approach.
+
 Mandatory to use:
 -	Interrupts with buttons
 -	BusOut for LEDs
@@ -8,7 +10,7 @@ Mandatory to use:
 The Objective is:
 -	Design a traffic light controller for the intersection of two equally busy one-way streets.
 -	The goal is to maximize traffic flow, minimize waiting time at a red light, and avoid accidents.
--	Traffic light Controller using two sensors and 6 lights.
+-	Traffic light Controller using two sensors (buttons) and 6 lights.
 -	Two sensors detects the presence of cars in each direction.
 -	Two traffic lights (Red,Yellow,Green) to control the traffic flow.
 
